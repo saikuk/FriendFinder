@@ -1,7 +1,7 @@
 var friendsArray = [
     {
     "name": "Sai",
-    "photo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwicgaftscvgAhUyUt8KHSxFD74QjRx6BAgBEAU&url=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fmonkey-selfie-david-slater-photographer-peta-copyright-image-camera-wildlife-personalities-macaques-a7941806.html&psig=AOvVaw2jjSLqHB2p76TkaY71mDpP&ust=1550789132517934",
+    "photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/12/11/naturo-monkey-selfie.jpg?w968",
     "scores": [
     "5",
     "1",
@@ -17,7 +17,7 @@ var friendsArray = [
     },
     {
     "name": "Cheong",
-    "photo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwicgaftscvgAhUyUt8KHSxFD74QjRx6BAgBEAU&url=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fmonkey-selfie-david-slater-photographer-peta-copyright-image-camera-wildlife-personalities-macaques-a7941806.html&psig=AOvVaw2jjSLqHB2p76TkaY71mDpP&ust=1550789132517934",
+    "photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/12/11/naturo-monkey-selfie.jpg?w968",
     "scores": [
     "4",
     "2",
@@ -33,7 +33,7 @@ var friendsArray = [
     },
     {
     "name": "John Smith",
-    "photo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwicgaftscvgAhUyUt8KHSxFD74QjRx6BAgBEAU&url=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fmonkey-selfie-david-slater-photographer-peta-copyright-image-camera-wildlife-personalities-macaques-a7941806.html&psig=AOvVaw2jjSLqHB2p76TkaY71mDpP&ust=1550789132517934",
+    "photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/12/11/naturo-monkey-selfie.jpg?w968",
     "scores": [
     "5",
     "2",
@@ -49,7 +49,7 @@ var friendsArray = [
     },
     {
     "name": "Joe Yeung",
-    "photo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwicgaftscvgAhUyUt8KHSxFD74QjRx6BAgBEAU&url=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fmonkey-selfie-david-slater-photographer-peta-copyright-image-camera-wildlife-personalities-macaques-a7941806.html&psig=AOvVaw2jjSLqHB2p76TkaY71mDpP&ust=1550789132517934",
+    "photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/12/11/naturo-monkey-selfie.jpg?w968",
     "scores": [
     "3",
     "3",
@@ -65,7 +65,7 @@ var friendsArray = [
     },
     {
     "name": "Lou Ritter",
-    "photo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwicgaftscvgAhUyUt8KHSxFD74QjRx6BAgBEAU&url=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fmonkey-selfie-david-slater-photographer-peta-copyright-image-camera-wildlife-personalities-macaques-a7941806.html&psig=AOvVaw2jjSLqHB2p76TkaY71mDpP&ust=1550789132517934",
+    "photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/12/11/naturo-monkey-selfie.jpg?w968",
     "scores": [
     "4",
     "3",
